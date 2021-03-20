@@ -1,5 +1,5 @@
 # Database_project
-Electricity bill management system using pl_sql
+Electricity bill management system using PL/SQL
 
 The aim of this project Electricity Billing System is to develop
 a system that is meant to partially computerize the work performed 
