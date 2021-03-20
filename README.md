@@ -5,11 +5,15 @@ The aim of this project Electricity Billing System is to develop
 a system that is meant to partially computerize the work performed 
 in the Electricity Board like generating monthly electricity bill, 
 record of consuming unit of energy, store record of the customer and
-previous unpaid record. It manages all the information about Customer, 
+previous unpaid record. 
+
+It manages all the information about Customer, 
 Bill Receipt, Payment. 
 
 The project is totally built at administrative end and thus 
-only the administrator is guaranteed the access. The purpose of this project is 
+only the administrator is guaranteed the access. 
+
+The purpose of this project is 
 to build an application program to reduce the manual work for managing the Customer, Bill, Bill Receipt etc.
 
 
