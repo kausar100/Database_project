@@ -14,8 +14,8 @@ to build an application program to reduce the manual work for managing the Custo
 
 
 Functionalities provide by Electricity Billing System are as Follows:
-  •	Manage the information of Customer
-  •	Manage the information of Bill, Bill Receipt
-  •	Show the information and description of the Customer
-  •	Editing, adding and updating of various Records 
-  •	Provides the searching facilities based on various factors. Such as Customer, Payment
+  1. Manage the information of Customer
+  2. Manage the information of Bill, Bill Receipt
+  3. Show the information and description of the Customer
+  4. Editing, adding and updating of various Records 
+  5. Provides the searching facilities based on various factors. Such as Customer, Payment
